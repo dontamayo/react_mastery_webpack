@@ -1,9 +1,9 @@
 
-#Setting up a webpack project from scratch
+# Setting up a webpack project from scratch
 
-###references:
+### references:
 
-####steps
+#### steps
 1. npm i --save-dev webpack webpack-cli
 2. npm run webpack
 3. installing babel compiler
